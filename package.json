@@ -1,6 +1,6 @@
 {
   "name": "emoji-name-map",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Name to unicode emoji mapping.",
   "main": "lib/index.js",
   "directories": {
@@ -30,5 +30,16 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/emoji-name-map/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/emoji-name-map#readme"
+  "homepage": "https://github.com/IonicaBizau/emoji-name-map#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
