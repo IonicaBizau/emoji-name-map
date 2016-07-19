@@ -3,6 +3,9 @@ const name = require("../lib");
 console.log(name.get("heart_eyes"));
 // 😍
 
+console.log(name.get(":heart_eyes:"));
+// 😍
+
 console.log(name.emoji);
 // {
 //   '100': '💯',
