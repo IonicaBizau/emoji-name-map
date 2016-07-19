@@ -22,6 +22,9 @@ const name = require("emoji-name-map");
 console.log(name.get("heart_eyes"));
 // 😍
 
+console.log(name.get(":heart_eyes:"));
+// 😍
+
 console.log(name.emoji);
 // {
 //   '100': '💯',
