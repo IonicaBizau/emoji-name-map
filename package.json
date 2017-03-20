@@ -1,6 +1,6 @@
 {
   "name": "emoji-name-map",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Name to unicode emoji mapping.",
   "main": "lib/index.js",
   "directories": {
@@ -15,7 +15,7 @@
     "unicode",
     "map"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "dependencies": {
     "emojilib": "^2.0.2",
@@ -35,12 +35,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
