@@ -1,6 +1,6 @@
 {
   "name": "emoji-name-map",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "Name to unicode emoji mapping.",
   "main": "lib/index.js",
   "directories": {
@@ -41,6 +41,9 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ]
 }
