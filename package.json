@@ -26,6 +26,9 @@
     "url": "https://github.com/IonicaBizau/emoji-name-map/issues"
   },
   "homepage": "https://github.com/IonicaBizau/emoji-name-map#readme",
+  "contributors": [
+    "yakumomutsuki <sakuraapp1988@gmail.com> (https://yakumomutsuki.github.io/)"
+  ],
   "files": [
     "bin/",
     "app/",

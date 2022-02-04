@@ -57,7 +57,17 @@ npm install --save emoji-name-map
 yarn add emoji-name-map
 ```
 
+## :hammer: Build Datasource
 
+If the version of [emoji-datasource](https://www.npmjs.com/package/emoji-datasource) is upgraded, please reimport the data and regenerate the json object.
+
+```sh
+# Using npm
+npm install && npm run data:build
+
+# Using yarn
+yarn && yarn data:build
+```
 
 
 
