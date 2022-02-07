@@ -23,4 +23,4 @@ function main(path, input) {
     writeFile(path, input);
 }
 
-main(`data/datasource.json`, jsonData);
+main(`lib/datasource.json`, jsonData);
