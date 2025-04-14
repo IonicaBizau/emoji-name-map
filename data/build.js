@@ -12,7 +12,7 @@ dataSource.forEach(source => {
 function writeFile(path, data) {
     const jsonStr = JSON.stringify(data);
     fs.writeFile(path, jsonStr, (err) => {
-      if (err) rej(err);
+      if (err) console.error(err);
       if (!err) {
         console.log('Success output to json!!');
       }
