@@ -1,6 +1,6 @@
 {
   "name": "emoji-name-map",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Name to unicode emoji mapping.",
   "main": "lib/index.js",
   "directories": {
